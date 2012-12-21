@@ -4,7 +4,7 @@ Plugins for [GetResponse](http://getresponse.com)
 
 ##INFO
 
-<BR>
+
 GetResponsePlugins:
 
 * [Joomla](https://github.com/gstruczynski/DevZone/raw/master/GetResponse/Joomla/)
