@@ -1,25 +1,15 @@
-Repository content:
+#GetResponse plugins
 
-******************************** API ********************************
+Plugins for [GetResponse](http://getresponse.com)
 
-    Communicate with GetResponse
-    through Application Programming Interface.
-    ( http://dev.getresponse.com/api-doc/ )
+##INFO
 
-    API/lib/jsonRPCClient.php - JSON-RPC library for PHP
-    API/examples/ - use cases implemented in popular languages
+<BR>
+GetResponsePlugins:
 
-******************************** DC ********************************
-
-    Customize your email content
-    using GetResponse Dynamic Content language.
-    ( http://dev.getresponse.com/dc-doc/ )
-
-    DC/lib/GetResponse/DynamicContent/Grammar.pm - reference grammar
-
-******************************** Plugins ********************************
-
-    Integrate GetResponse with various services.
-
-    Plugins/WordPress/ - wordpress.org
-    Plugins/osCommerce/ - oscommerce.com
+* [Joomla](https://github.com/gstruczynski/DevZone/raw/master/GetResponse/Joomla/)
+* [OpenCart](https://github.com/gstruczynski/DevZone/raw/master/GetResponse/OpenCart/)
+* [osCommerce](https://github.com/gstruczynski/DevZone/raw/master/GetResponse/osCommerce/)
+* [Prestashop](https://github.com/gstruczynski/DevZone/raw/master/GetResponse/Prestashop/)
+* [Wordpress](https://github.com/gstruczynski/DevZone/raw/master/GetResponse/Wordpress/)
+* [ZenCart](https://github.com/gstruczynski/DevZone/raw/master/GetResponse/ZenCart/)
